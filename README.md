@@ -2,7 +2,6 @@
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
 - 🌱 I’m currently learning **Python, PHP**
-
 - 📫 How to reach me **yekayee48@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
